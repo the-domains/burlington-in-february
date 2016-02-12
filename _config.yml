@@ -1,5 +1,8 @@
+name: Burlington in February
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.32637
 title: Hamilton Snow
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 0.9778973
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Burlington in February
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.6648745
-layout_spectrum: 0.6373954
+  brandStrength: 0.125
+  lightness: 0.5
+  saturation: 0.125
+  rhythmicContrast: 0.75
+purpose: []
